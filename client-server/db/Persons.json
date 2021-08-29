@@ -1,0 +1,2 @@
+{"_id":1,"DateOfIssueToken":{"$date":"2021-05-01T12:45:33.175Z"},"Birthday":"11-10-1999","Email":"to4ilko@mail.ru","State":1,"Login":"1","Token":"qwKchNAtDDF7GIIi","Password":"1","Phone":"89500768814","Address":"Pervomayskii, 6, 13","Name":"Tochilova Liza"}
+{"_id":2,"Email":"gogganessko@mail.ru","State":0,"Address":"Sinyshka","Phone":"88005553535","Password":"2","Birthday":"20.10.1997","DateOfIssueToken":null,"Name":"Yurkov Gosha","Token":null,"Login":"2"}

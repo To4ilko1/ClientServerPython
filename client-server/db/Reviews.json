@@ -1,0 +1,2 @@
+{"_id":1,"AnimalTypes":{"DelTime":null,"_id":1,"NameIfType":"Кошка"},"ClientID":1,"AddTime":{"$date":"2020-10-03T18:38:12.434Z"},"Body":"Прекрасный отель!!!!!","DelTime":null}
+{"_id":2,"AnimalTypes":{"DelTime":null,"NameIfType":"Собака","_id":2},"DelTime":null,"AddTime":{"$date":"2020-10-04T23:13:26.986Z"},"ClientID":1,"Body":"rfrefref"}

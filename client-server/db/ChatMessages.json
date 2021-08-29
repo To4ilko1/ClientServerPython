@@ -1,0 +1,4 @@
+{"_id":1,"Time":{"$date":"2020-10-04T16:35:53.044Z"},"DelTime":null,"Chat":{"_id":1,"DelTime":null,"ClientID":1},"Text":"hi","FilePath":null,"Status":1,"PersonID":1}
+{"_id":2,"FilePath":null,"PersonID":1,"DelTime":null,"Text":"priv","Status":1,"Time":{"$date":"2020-10-04T16:49:51.553Z"},"Chat":{"ClientID":1,"_id":1,"DelTime":null}}
+{"_id":3,"PersonID":1,"Text":"rrr","Time":{"$date":"2020-10-04T23:09:34.505Z"},"Status":1,"FilePath":null,"DelTime":null,"Chat":{"ClientID":1,"DelTime":null,"_id":1}}
+{"_id":4,"Chat":{"_id":1,"DelTime":null,"ClientID":1},"PersonID":1,"Time":{"$date":"2021-04-30T14:51:15.908Z"},"Text":"re","FilePath":null,"DelTime":null,"Status":1}
